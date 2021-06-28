@@ -3,9 +3,11 @@
 &nbsp;
 
 
-- 🌱 I’m currently learning **SwiftUI, UI/UX design**
+- 🌱 I’m currently learning **UI/UX design**
 
-- 💬 Ask me about **swift, kotlin, java, objective-c**
+- 💬 Ask me about **Swift, Kotlin, Java, Objective-c**
+
+- 💻 Freelance available.
 
 - 📫 How to reach me **rupalchanpreet@gmail.com**
 
