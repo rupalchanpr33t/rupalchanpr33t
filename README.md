@@ -3,7 +3,7 @@
 &nbsp;
 
 
-- 🌱 I’m currently learning **UI/UX design**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **Swift, Kotlin, Java, Objective-c**
 
